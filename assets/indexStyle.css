@@ -28,6 +28,16 @@ body{
     background-size: cover;
 }
 
+.aboutMe {
+    padding-bottom: 20px;
+}
+
+.bioPic {
+    margin-top: 20px;
+    width: 336px;
+    height: 224px;
+}
+
 footer {
     background-color: #3b3b3b;
     color: #d4d4d4;
