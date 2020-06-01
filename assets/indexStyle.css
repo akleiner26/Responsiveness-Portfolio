@@ -5,6 +5,7 @@
 header{
     background-color: #3b3b3b;
     color: #d4d4d4;
+    width: 100%;
 }
 
 a:link {
@@ -30,20 +31,29 @@ body{
 
 .aboutMe {
     padding-bottom: 20px;
+    margin-top: 50px;
 }
 
 .bioPic {
-    margin-top: 20px;
+    margin-top: 5px;
     width: 336px;
     height: 224px;
+}
+
+.bio {
+    margin-left: 15px;
 }
 
 footer {
     background-color: #3b3b3b;
     color: #d4d4d4;
-    position: relative;
-    margin-top: 500px;
-    height: 95px;
+    width: 100%;
+}
+
+.footerImg{
+    height: 30px;
+    width: 30px;
+    justify-self: right;
 }
 
 .credit {
