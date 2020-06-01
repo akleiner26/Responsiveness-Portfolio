@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="h-100" lang="en">
+
 
 <head>
     <meta charset="UTF-8">
@@ -9,32 +10,59 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/indexStyle.css" type="text/css">
+    <link rel="stylesheet" href="assets/contact.css" type="text/css">
 </head>
-<header>
-    <nav class="navbar">
-        <h1 class="name">Andrew Kleiner</h1>
-        <ul class="nav justify-content-end">
-            <li class="nav-item">
-                <a class="nav-link navButton" href="./index.html">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link navButton" href="./portfolio.html">Portfolio</a>
-            </li>
-            <li>
-                <a class="nav-link navButton" href="contact.html">Contact</a>
-            </li>
-        </ul>
-    </nav>
-</header>
 
-<body>
+<body class="h-100 d-flex flex-column pb-8">
+    <header>
+        <nav class="navbar">
+            <h1 class="name">Andrew Kleiner</h1>
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link navButton" href="./index.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link navButton" href="./portfolio.html">Portfolio</a>
+                </li>
+                <li>
+                    <a class="nav-link navButton" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main class="container">
+        <form class="mb-8">
+            <h1 class="formHeader">Contact</h1>
+            <label for="exampleFormControlInput1">Name</label>
+                <section class="form-row">
+                  <section class="col">
+                    <input type="text" class="form-control" placeholder="Your Name">
+                  </section>
+                </section>
+            <section class="form-group">
+              <label for="exampleFormControlInput1">Email address</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            </section>
+            <section class="form-group">
+            <section class="form-group">
+              <label for="exampleFormControlTextarea1">Message</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </section>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+    </main>
+
+   
+    <footer class="mt-auto fixed-bottom">
+        <a href="https://www.linkedin.com/in/andrew-kleiner-0334b994"><img class="footerImg text-center"
+            src="./assets/images/linkdin.png"></a>
+    <a href="https://github.com/akleiner26"><img class="footerImg text-center" src="./assets/images/github.png"></a>
+        <h6 class="credit">Background Art by:
+            <a target="_blank" href="https://matthewgreerdesign.squarespace.com/">Matthew Greer</a>
+        </h6>
+    </footer>
 </body>
 
-<footer>
-    <h6 class="credit">Background Art by:
-        <a target="_blank" href="https://matthewgreerdesign.squarespace.com/">Matthew Greer</a>
-    </h6>
-    <a href=https://www.linkedin.com/in/andrew-kleiner-0334b994><img href="./assets/images/linkdin.png"></a>
-</footer>
+
 
 </html>
