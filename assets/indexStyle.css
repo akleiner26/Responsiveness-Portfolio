@@ -27,3 +27,17 @@ body{
     background-image: url("./images/background.jpg");
     background-size: cover;
 }
+
+footer {
+    background-color: #3b3b3b;
+    color: #d4d4d4;
+    position: relative;
+    margin-top: 500px;
+    height: 95px;
+}
+
+.credit {
+    position: relative;
+    margin-top: 45px;
+    padding-top: 40px;
+}
