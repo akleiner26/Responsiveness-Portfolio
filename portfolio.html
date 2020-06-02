@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="h-100" lang="en">
+
 
 <head>
     <meta charset="UTF-8">
@@ -9,32 +10,70 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/indexStyle.css" type="text/css">
+    <link rel="stylesheet" href="assets/portfolio.css" type="text/css">
 </head>
-<header>
-    <nav class="navbar">
-        <h1 class="name">Andrew Kleiner</h1>
-        <ul class="nav justify-content-end">
-            <li class="nav-item">
-                <a class="nav-link navButton" href="./index.html">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link navButton" href="./portfolio.html">Portfolio</a>
-            </li>
-            <li>
-                <a class="nav-link navButton" href="contact.html">Contact</a>
-            </li>
-        </ul>
-    </nav>
-</header>
 
-<body>
+<body class="h-100 d-flex flex-column pb-8">
+    <header>
+        <nav class="navbar">
+            <h1 class="name">Andrew Kleiner</h1>
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link navButton" href="./index.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link navButton" href="./portfolio.html">Portfolio</a>
+                </li>
+                <li>
+                    <a class="nav-link navButton" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <h1 class="border-bottom border-dark mt-4">Portfolio</h1>
+        <section class="row mt-8">
+            <section class="col-sm-12 col-md-6 text-center">
+                <img class="img-fluid " src="assets/images/The Head and the Heart.jpg" alt="The Head and the Heart">
+                <label>The Head and the Heart</label>
+                <br />
+                <label>Photo by: J.C. Dunst</label>
+            </section>
+            <section class="col-sm-12 col-md-6 text-center">
+                <img class="img-fluid" src="assets/images/San Fermin.JPG" alt="San Fermin">
+                <label>San Fermin</label>
+                <br />
+                <label>Photo by: Cory Stieg</label>
+            </section>
+        </section>
+            <section class="row mt-8">
+                <section class="col-sm-12 col-md-6 text-center">
+                    <img class="img-fluid" src="assets/images/Ani Difranco.JPG" alt="Ani Difranco">
+                    <label>Ani Difranco</label>
+                    <br />
+                    <label>Photo by: Andrew Kleiner</label>
+                </section>
+                <section class="col-sm-12 col-md-6 text-center">
+                    <img class="img-fluid" src="assets/images/NBA All Star.JPG" alt="NBA All Star Game">
+                    <label>NBA All Star Game</label>
+                    <br />
+                    <label>Photo by: Andrew Kleiner</label>
+                </section>
+            </section>
+    </main>
+
+
+    <footer class="mt-auto fixed-bottom">
+        <a href="https://www.linkedin.com/in/andrew-kleiner-0334b994"><img class="footerImg text-center"
+                src="./assets/images/linkdin.png"></a>
+        <a href="https://github.com/akleiner26"><img class="footerImg text-center" src="./assets/images/github.png"></a>
+        <h6 class="credit">Background Art by:
+            <a target="_blank" href="https://matthewgreerdesign.squarespace.com/">Matthew Greer</a>
+        </h6>
+    </footer>
 </body>
 
-<footer>
-    <h6 class="credit">Background Art by:
-        <a target="_blank" href="https://matthewgreerdesign.squarespace.com/">Matthew Greer</a>
-    </h6>
-    <a href=https://www.linkedin.com/in/andrew-kleiner-0334b994><img href="./assets/images/linkdin.png"></a>
-</footer>
+
 
 </html>
