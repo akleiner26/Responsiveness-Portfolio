@@ -33,9 +33,6 @@ main{
     margin-bottom: 150px;
 }
 
-.mainBio{
-    padding-top: 0px;
-}
 
 
 .aboutMe {
@@ -57,6 +54,11 @@ main{
 
 }
 
+.mainBio{
+    padding-top: 0px;
+}
+
+
 .bio {
     margin-left: 15px;
     margin-top: 15px;
@@ -69,6 +71,7 @@ footer {
     width: 100%;
     height: 5%;
     padding-bottom: 40px;
+    margin-top: 3rem;
 }
 
 .footerImg{
