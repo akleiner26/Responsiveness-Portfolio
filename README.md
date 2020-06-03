@@ -9,8 +9,8 @@ This web designed aimed to not only create a working portfolio for myself, but t
 As seen in this project, bootstraps open source code material is one of many ways in which a modern developer can accomodate users of a wide range of devices. Since every device has a different aspect ratio and resolution, it is important for coders to utilize tools such as this in order to create a consistent brand image.
 
 ## Contributors
-Web Design-Andrew Kleiner
-Photographer- J.C. Dunst
-Photographer- Cory Stieg
-Photographer- Andrew Kleiner
-Background Art- Matthew Greer
+Web Design-Andrew Kleiner\
+Photographer- J.C. Dunst\
+Photographer- Cory Stieg\
+Photographer- Andrew Kleiner\
+Background Art- Matthew Greer\
