@@ -16,9 +16,9 @@ Photographer- Andrew Kleiner\
 Background Art- Matthew Greer
 
 ## Links to Site
-About Me: [About Me Page](https://akleiner26.github.io/Responsiveness-Portfolio/)\
-Portfolio: [Portfolio Page](https://akleiner26.github.io/Responsiveness-Portfolio/portfolio.html)\
-Contact: [Contact Page](https://akleiner26.github.io/Responsiveness-Portfolio/contact.html)
+About Me: [About Me Page](https://akleiner26.github.io/Responsiveness-Portfolio/){:target="_blank"}\
+Portfolio: [Portfolio Page](https://akleiner26.github.io/Responsiveness-Portfolio/portfolio.html){:target="_blank"}\
+Contact: [Contact Page](https://akleiner26.github.io/Responsiveness-Portfolio/contact.html){:target="_blank"}\
 
 ## Screenshots of Site
 ### About Me on a Large Device
