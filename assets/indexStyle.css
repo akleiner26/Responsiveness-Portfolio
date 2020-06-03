@@ -8,19 +8,7 @@ header{
     width: 100%;
 }
 
-a:link {
-    color: #d4d4d4;
-}
-
-a:visited {
-    color: #d4d4d4;
-}
-
-a:hover {
-    color: #d4d4d4;
-}
-
-a:active {
+a:link, a:visited, a:hover, a:active {
     color: #d4d4d4;
 }
 
