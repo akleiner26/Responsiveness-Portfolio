@@ -33,21 +33,34 @@ main{
     margin-bottom: 150px;
 }
 
+.mainBio{
+    padding-top: 0px;
+}
+
+
 .aboutMe {
     padding-bottom: 20px;
     margin-top: 50px;
 }
 
+
 .bioPic {
     margin-top: 5px;
     max-width: 336px;
-    max-height: 224px;
+    max-height: 200px;
     width:100%;
     margin-left: 10px;
+    height:100%;
+    min-width: 269px;
+    padding-top:15px;
+    padding-bottom: 10px;
+
 }
 
 .bio {
     margin-left: 15px;
+    margin-top: 15px;
+    display: flex;
 }
 
 footer {
@@ -71,14 +84,4 @@ footer {
     padding-top: 5px;
     float: right;
     margin-right: 10px;
-}
-
-
-@media screen and (max-width:640px){
-    .bioPic{
-        display:block;
-        margin-left: auto;
-        margin-right: auto;
-        width:50%;
-    }
 }
