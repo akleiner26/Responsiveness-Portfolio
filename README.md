@@ -13,4 +13,4 @@ Web Design-Andrew Kleiner\
 Photographer- J.C. Dunst\
 Photographer- Cory Stieg\
 Photographer- Andrew Kleiner\
-Background Art- Matthew Greer\
+Background Art- Matthew Greer
