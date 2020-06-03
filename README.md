@@ -14,3 +14,38 @@ Photographer- J.C. Dunst\
 Photographer- Cory Stieg\
 Photographer- Andrew Kleiner\
 Background Art- Matthew Greer
+
+## Links to Site
+About Me: [a link](https://akleiner26.github.io/Responsiveness-Portfolio/)\
+Portfolio: [a link](https://akleiner26.github.io/Responsiveness-Portfolio/portfolio.html)\
+Contact: [a link](https://akleiner26.github.io/Responsiveness-Portfolio/contact.html)
+
+## Screenshots of Site
+### About Me on a Large Device
+<img src="/assets/images/Screenshots/aboutMeBig.png" alt="About Me Large Screenshot">
+
+### About Me on a Medium Size Device
+<img src="/assets/images/Screenshots/aboutMeMed.png" alt="About Me Medium Screenshot">
+
+### About Me on a Small Device
+<img src="/assets/images/Screenshots/aboutMeSmall.png" alt="About me Small Screenshot">
+
+### Portfolio on a Large Device
+<img src="/assets/images/Screenshots/portfolioBig.png" alt="Portfolio Large Screenshot">
+
+### Portfolio on a Medium Size Device
+<img src="/assets/images/Screenshots/portfolioMed.png" alt="Portfolio Medium Screenshot">
+
+### Portfolio on a Small Device
+<img src="/assets/images/Screenshots/portfolioSmall.png" alt="Portfolio Small">
+
+### Contact on a Large Device
+<img src="/assets/images/Screenshots/contactBig.png" alt="Contact Large Screenshot">
+
+### Contact on a Medium Size Device
+<img src="/assets/images/Screenshots/contactMed.png" alt="Contact Medium Screenshot">
+
+### Contact on a Small Device
+<img src="/assets/images/Screenshots/contactSmall.png" alt="Small Device Screenshot">
+
+
