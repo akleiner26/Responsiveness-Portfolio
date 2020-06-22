@@ -4,3 +4,16 @@
     margin-bottom: 6.5rem;
 }
 
+/* .portRow{
+    border-bottom: rgb(182, 63, 16);
+    border-style: double;
+} */
+
+.cardLeft, .cardRight {
+    border: rgb(182, 63, 16);
+    border-style: double;
+}
+
+.portBtn:link, .portBtn:visited, .portBtn:hover, .portBtn:active{
+    color: rgb(182, 63, 16);
+}
