@@ -71,9 +71,9 @@ footer {
 
 .credit {
     position: relative;
-    margin-top: 5px;
+    margin-top: 1px;
     padding-top: 5px;
-    float: right;
+    /* float: right; */
     margin-right: 10px;
-    margin-left: 162px;
+    /* margin-left: 162px; */
 }
