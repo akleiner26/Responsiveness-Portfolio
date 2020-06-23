@@ -14,10 +14,6 @@
     border-style: double;
 }
 
-.portBtn:link, .portBtn:visited, .portBtn:hover, .portBtn:active{
-    /* color: rgb(182, 63, 16); */
-}
-
 .cardHead{
     background-color: #3b3b3b;
 }
