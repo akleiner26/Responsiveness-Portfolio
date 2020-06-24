@@ -10,15 +10,13 @@ As seen in this project, bootstraps open source code material is one of many way
 
 ## Contributors
 Web Design-Andrew Kleiner\
-Photographer- J.C. Dunst\
-Photographer- Cory Stieg\
-Photographer- Andrew Kleiner\
 Background Art- Matthew Greer
 
 ## Links to Site
 About Me: [About Me Page](https://akleiner26.github.io/Responsiveness-Portfolio/)\
 Portfolio: [Portfolio Page](https://akleiner26.github.io/Responsiveness-Portfolio/portfolio.html)\
-Contact: [Contact Page](https://akleiner26.github.io/Responsiveness-Portfolio/contact.html)
+Contact: [Contact Page](https://akleiner26.github.io/Responsiveness-Portfolio/contact.html)\
+Resume: [Resume PDF](https://akleiner26.github.io/Responsiveness-Portfolio/assets/images/Andrew%20Kleiner%20Resume%202020%20Code.pdf)
 
 ## Screenshots of Site
 ### About Me on a Large Device
@@ -47,5 +45,8 @@ Contact: [Contact Page](https://akleiner26.github.io/Responsiveness-Portfolio/co
 
 ### Contact on a Small Device
 <img src="/assets/images/Screenshots/contactSmall.png" alt="Small Device Screenshot">
+
+### Resume
+<img src="/assets/images/Screenshots/resume.png" alt="Resume">
 
 
