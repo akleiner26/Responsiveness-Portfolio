@@ -11,7 +11,7 @@
 
 .cardLeft, .cardRight {
     /* border: rgb(182, 63, 16); */
-    border-style: double;
+    border-style: solid;
 }
 
 .cardHead{
